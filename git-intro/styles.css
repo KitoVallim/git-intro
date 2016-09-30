@@ -10,7 +10,9 @@ h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
 a:hover {color:#979797;}
-a img{border:0px;}
+a img{border:0px;width: 250px;
+	padding: 10px;
+}
 
 #container{
 	width:950px;
